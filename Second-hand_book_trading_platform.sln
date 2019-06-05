@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second-hand_book_trading_platform", "Second-hand_book_trading_platform\Second-hand_book_trading_platform.csproj", "{F07C018A-3ACF-496B-ACCA-87E08A392635}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1EA821D0-EF8C-4BCB-8AF7-B74F5C1FA16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "book", "book\book.csproj", "{52F1950C-901C-4DF8-A836-8A1E8EB6B3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07C018A-3ACF-496B-ACCA-87E08A392635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07C018A-3ACF-496B-ACCA-87E08A392635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07C018A-3ACF-496B-ACCA-87E08A392635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07C018A-3ACF-496B-ACCA-87E08A392635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52F1950C-901C-4DF8-A836-8A1E8EB6B3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52F1950C-901C-4DF8-A836-8A1E8EB6B3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52F1950C-901C-4DF8-A836-8A1E8EB6B3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52F1950C-901C-4DF8-A836-8A1E8EB6B3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84ECB33F-6467-4998-8649-393CBCD4D9D2}
+	EndGlobalSection
+EndGlobal
